@@ -1,2 +1,1 @@
-# aiaa
-AI-affordance alignment 
+# AI-affordance alignment 
